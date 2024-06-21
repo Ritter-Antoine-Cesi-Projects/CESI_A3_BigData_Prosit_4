@@ -1,1 +1,0 @@
-This document is here only for git to understand that the folder can be used :)
