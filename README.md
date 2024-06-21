@@ -1,6 +1,6 @@
-# ``Bloc`` - Prosit X
+# ``Big Data`` - Prosit 4
 
-This is the repository for the Prosit X of the ``Bloc`` course.
+This is the repository for the Prosit 4 of the ``Big Data`` course.
 
 ## Repository structure
 
