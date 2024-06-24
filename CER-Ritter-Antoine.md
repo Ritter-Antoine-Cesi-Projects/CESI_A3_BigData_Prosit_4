@@ -115,11 +115,6 @@ PowerBi est un service d'analyse de données de Microsoft permettant de visualis
    - Intégrer PowerBi avec d'autres outils Microsoft comme Excel, Teams, et SharePoint.
    - Automatiser les mises à jour des données et les alertes via des flux de travail.
 
-### Ressources d'apprentissage
-- **Microsoft Learn** : Plateforme de formation gratuite avec des modules sur PowerBi.
-- **Documentation officielle PowerBi** : Documentation complète et tutoriels détaillés.
-- **Communauté PowerBi** : Forum où poser des questions et partager des expériences.
-
 ## Alternatives à PowerBi
 
 ### Introduction
@@ -157,11 +152,6 @@ Bien que PowerBi soit un outil puissant, il existe plusieurs autres solutions d'
 - **Intégration** : Vérifier la compatibilité avec les sources de données et les systèmes existants.
 - **Fonctionnalités** : Comparer les capacités de visualisation, d'analyse, de collaboration, etc.
 - **Support et communauté** : Considérer la disponibilité du support technique et l'activité de la communauté d'utilisateurs.
-
-### Ressources d'apprentissage
-- **Sites officiels des outils** : Documentation et tutoriels pour chaque alternative.
-- **Comparatifs en ligne** : Articles et rapports comparant différentes solutions.
-- **Webinaires et démos** : Sessions en ligne pour découvrir les fonctionnalités des outils.
 
 ## Types de graphes
 
@@ -211,10 +201,6 @@ Les graphiques permettent de représenter visuellement les données pour en faci
 - **Message à transmettre** : Comparaison, tendance, distribution, etc.
 - **Public cible** : Niveau de familiarité avec les types de visualisation.
 
-### Ressources d'apprentissage
-- **Guides de visualisation de données** : Livres et articles sur les meilleures pratiques de visualisation.
-- **Outils en ligne** : Sites comme Data-to-Viz et Chart Guide pour choisir le type de graphique approprié.
-- **Tutoriels et cours** : Cours en ligne sur les plateformes comme Coursera, Udemy, et LinkedIn Learning.
 
 ## Expérience utilisateur dans le cadre de l’affichage de données
 
@@ -261,10 +247,6 @@ L'expérience utilisateur (UX) dans le cadre de l'affichage de données se conce
    - Recueillir et analyser les retours des utilisateurs pour améliorer les visualisations.
    - Mener des tests utilisateurs pour identifier les problèmes et les opportunités d'amélioration.
 
-### Ressources d'apprentissage
-- **Livres** : "Don't Make Me Think" de Steve Krug, "The Design of Everyday Things" de Don Norman.
-- **Cours en ligne** : Cours sur l'UX Design sur des plateformes comme Coursera, Udemy, et Interaction Design Foundation.
-- **Blogs et articles** : UX Planet, Nielsen Norman Group, et Smashing Magazine pour des conseils et des études de cas.
 
 ## Data Storytelling
 
@@ -317,11 +299,6 @@ Le Data Storytelling combine l'analyse de données avec la narration pour prése
 2. **Tableau** : Pour des visualisations sophistiquées et interactives.
 3. **Google Data Studio** : Pour des rapports interactifs et partagés.
 
-### Ressources d'apprentissage
-- **Livres** : "Storytelling with Data" de Cole Nussbaumer Knaflic, "Data Story" de Nancy Duarte.
-- **Cours en ligne** : Cours sur le Data Storytelling sur des plateformes comme Coursera, Udemy, et LinkedIn Learning.
-- **Blogs et articles** : Storytelling with Data blog, Datawrapper Academy.
-
 ## Maquette quick-win
 
 ### Introduction
@@ -341,12 +318,6 @@ Une maquette quick-win est une solution rapide et temporaire visant à obtenir d
    - Être prêt à itérer et à ajuster la maquette en fonction des retours.
    - Utiliser des composants modulaires pour faciliter les modifications.
 
-### Étapes pour créer une maquette quick-win
-
-1. **Définir l'objectif**
-   - Identifier le problème ou le besoin spécifique à adresser.
-   - Déterminer les critères de succès pour la maquette.
-
 2. **Choisir les outils**
    - Sélectionner des outils de prototypage rapides comme Figma, Sketch, ou Adobe XD pour la conception.
    - Utiliser des frameworks de développement rapide comme Bootstrap ou React pour l'implémentation.
@@ -362,11 +333,6 @@ Une maquette quick-win est une solution rapide et temporaire visant à obtenir d
 5. **Mise en œuvre**
    - Déployer la maquette pour une utilisation limitée.
    - Suivre les performances et recueillir des retours pour des itérations futures.
-
-### Ressources d'apprentissage
-- **Outils de prototypage** : Tutoriels sur Figma, Sketch, et Adobe XD.
-- **Frameworks de développement rapide** : Documentation sur Bootstrap, React, et autres frameworks.
-- **Cours en ligne** : Cours sur le prototypage rapide et les méthodologies agiles sur des plateformes comme Coursera et Udemy.
 
 ## Indicateurs
 
@@ -428,11 +394,6 @@ Les indicateurs sont des métriques utilisées pour évaluer les performances et
 
 5. **Communiquer les résultats**
    - Présenter les résultats de manière claire et compréhensible aux parties prenantes.
-
-### Ressources d'apprentissage
-- **Livres** : "Measure What Matters" de John Doerr, "The Lean Startup" de Eric Ries.
-- **Cours en ligne** : Cours sur les indicateurs de performance et la gestion des performances sur des plateformes comme Coursera et LinkedIn Learning.
-- **Blogs et articles** : Harvard Business Review, McKinsey & Company pour des études de cas et des meilleures pratiques.
 
 # Solutions
 
